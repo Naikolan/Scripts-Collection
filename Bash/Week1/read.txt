@@ -1,1 +1,3 @@
 historia de archivos subidos
+
+1-25/04/26 ("primeros pasos de scripting")
